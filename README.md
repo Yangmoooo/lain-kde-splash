@@ -4,7 +4,7 @@ A splash screen for KDE plasma.
 
 **Note:**
 
-**This is a fork. Original version can be found from [bouteillerAlan](https://github.com/bouteillerAlan/kuro).
+**This is a fork. Original version can be found from [bouteillerAlan](https://github.com/bouteillerAlan/kuro).**
 
 ## Differences
 
