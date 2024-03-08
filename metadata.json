@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "yangmoooo@outlook.com",
+                "Name": "Pan <Yangmoooo> Zhaoyang"
+            }
+        ],
+        "Category": "",
+        "Description": "Lain is watching you",
+        "Id": "lain-kde-splash",
+        "License": "GPLv3",
+        "Name": "Lain",
+        "Website": "https://github.com/Yangmoooo/lain-kde-splash"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-Plasma-APIVersion": "2"
+}
+
